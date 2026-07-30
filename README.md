@@ -1,7 +1,7 @@
-# 📚 HackerRank Solutions: C++, MySQL & Problem Solving
+# 📚 HackerRank Solutions: Java, MySQL & Problem Solving
 
 This repository contains my solutions to various HackerRank challenges in:
-- 🚀 **C++**
+- 🚀 **Java**
 - 💾 **MySQL**
 - 🧩 **Problem Solving Track**
 
